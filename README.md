@@ -9,7 +9,7 @@ My goal is to create an operating system kernel from the ground up. This reposit
 ### 1️⃣ **C Programming**
 
 - [ ] **The C Programming Language** (K&R)
-- [ ] [learn-c.org](https://www.learn-c.org/s) - Interactive tutorials
+- [ ] [learn-c.org](https://learn-c.org/) - Interactive tutorials
 
 ### 2️⃣ **Assembly Language**
 
