@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12646585-dfe5-4ee3-ba8c-991bfbaa3323" name="Changes" comment="yea chap 4 is done">
+      <change afterPath="$PROJECT_DIR$/Chapter_5/book_5.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_5/book_5.3.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;searchQuery&quot;: &quot;os&quot;,
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;TimofeySukh&quot;
+    },
+    {
+      &quot;searchQuery&quot;: &quot;os&quot;,
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;TimofeySukh&quot;,
+      &quot;author&quot;: &quot;TimofeySukh&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;searchQuery&quot;: &quot;os&quot;,
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TimofeySukh&quot;,
+    &quot;author&quot;: &quot;TimofeySukh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TimofeySukh/OS_learning.git&quot;,
+    &quot;accountId&quot;: &quot;0acb6683-edbc-4d40-94b1-d263d2dd205a&quot;
+  }
+}</component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="kDpCsoW6" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="37QOyzru9Jg3ahBTmqXj1muRpCd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.book_1.c.executor": "Run",
+    "C/C++ File.book_2.10.c.executor": "Run",
+    "C/C++ File.book_2.11.c.executor": "Run",
+    "C/C++ File.book_2.12.c.executor": "Run",
+    "C/C++ File.book_2.8.c.executor": "Run",
+    "C/C++ File.book_2.9.c.executor": "Run",
+    "C/C++ File.book_3.5.c.executor": "Run",
+    "C/C++ File.book_3.6.c.executor": "Run",
+    "C/C++ File.book_3.7.c.executor": "Run",
+    "C/C++ File.book_4.1.c.executor": "Run",
+    "C/C++ File.book_4.10.c.executor": "Run",
+    "C/C++ File.book_4.11.c.executor": "Run",
+    "C/C++ File.book_4.2.c.executor": "Run",
+    "C/C++ File.book_4.3.c.executor": "Debug",
+    "C/C++ File.book_4.7.c.executor": "Run",
+    "C/C++ File.book_5.1.c.executor": "Run",
+    "C/C++ File.book_5.2.c.executor": "Run",
+    "C/C++ File.book_5.3.c.executor": "Run",
+    "C/C++ File.main.c.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/Tim/Projects/OS_Learning/C",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter_4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.book_5.3.c">
+    <configuration name="book_4.10.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="book_4.10.c" CONFIG_NAME="book_4.10.c">
+      <option name="sourceFile" value="Chapter_4/book_4.10.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="book_4.11.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="book_4.11.c" CONFIG_NAME="book_4.11.c">
+      <option name="sourceFile" value="Chapter_4/book_4.11.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="book_5.1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="book_5.1.c" CONFIG_NAME="book_5.1.c">
+      <option name="sourceFile" value="Chapter_5/book_5.1.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="book_5.2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="book_5.2.c" CONFIG_NAME="book_5.2.c">
+      <option name="sourceFile" value="Chapter_5/book_5.2.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="book_5.3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="book_5.3.c" CONFIG_NAME="book_5.3.c">
+      <option name="sourceFile" value="Chapter_5/book_5.3.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.book_5.3.c" />
+        <item itemvalue="C/C++ File.book_5.2.c" />
+        <item itemvalue="C/C++ File.book_5.1.c" />
+        <item itemvalue="C/C++ File.book_4.11.c" />
+        <item itemvalue="C/C++ File.book_4.10.c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12646585-dfe5-4ee3-ba8c-991bfbaa3323" name="Changes" comment="" />
+      <created>1766832087785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766832087785</updated>
+      <workItem from="1766832088538" duration="119000" />
+      <workItem from="1766832217885" duration="8444000" />
+      <workItem from="1767258933201" duration="1656000" />
+      <workItem from="1767435152289" duration="7674000" />
+      <workItem from="1768036764683" duration="27792000" />
+      <workItem from="1770019529753" duration="5204000" />
+      <workItem from="1770457254386" duration="7608000" />
+    </task>
+    <task id="LOCAL-00001" summary="Forgot to commit">
+      <option name="closed" value="true" />
+      <created>1770022503365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770022503365</updated>
+    </task>
+    <task id="LOCAL-00002" summary="yea chap 4 is done">
+      <option name="closed" value="true" />
+      <created>1770057091904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770057091904</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Forgot to commit" />
+    <MESSAGE value="yea chap 4 is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="yea chap 4 is done" />
+  </component>
+</project>
